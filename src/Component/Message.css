@@ -1,0 +1,21 @@
+.message{
+  margin: 20px;
+  width: fit-content;
+  border-radius: 20px !important;
+  min-width: 40px;
+  align-items: center;
+  background-color: #f1f0f0 !important;
+}
+.MuiCardContent-root:last-child {
+  padding-bottom: 16px !important;
+}
+
+.message__user {
+  margin-left: auto !important;
+  color: white !important;
+  background-color: #009afe !important;
+  text-align: left !important;
+  margin: 10px;
+  min-width: 40px;
+  width: fit-content;
+}
